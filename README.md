@@ -1,16 +1,8 @@
-<img width="270" alt="Снимок экрана 2024-12-19 в 18 57 07" src="https://github.com/user-attachments/assets/fc212fae-16d3-46c0-a997-c85569dca850" />
-
-
-
-
-
-
-
-
-
-
 Это мое меню в нем можно нажиамать на разные кнопочки, ниже будет приведены примеры их работы.
 
+<img width="270" alt="Снимок экрана 2024-12-19 в 18 57 07" src="https://github.com/user-attachments/assets/fc212fae-16d3-46c0-a997-c85569dca850" />
+
+Список депозитов: выводит депозиторов, сумму их депозитов и процетную ставку из бд.
 
 <img width="226" alt="Снимок экрана 2024-12-19 в 18 57 23" src="https://github.com/user-attachments/assets/3ad2d094-3b88-4fd2-b750-c6e57a7e37d3" />
 
